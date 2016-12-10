@@ -25,13 +25,13 @@ class DefinitionViewController: UIViewController {
         emojiLabel.text = emoji
         
         if emoji == "🍑" {
-            definitionLabel.text = "Juicy bottom"
+            definitionLabel.text = "Juicy peach"
         }
         if emoji == "😂" {
             definitionLabel.text = "Laughing so hard I cry"
         }
         if emoji == "🍆" {
-            definitionLabel.text = "Big dick"
+            definitionLabel.text = "Eggplant...gross!"
         }
         if emoji == "💩" {
             definitionLabel.text = "Poop!"
